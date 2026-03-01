@@ -1,0 +1,16 @@
+[
+  {
+    "id": "demo_1",
+    "source": "reddit",
+    "subreddit": "SaaS",
+    "problem": "Solo founders struggle to keep up with customer support while coding.",
+    "who": "solo SaaS founders",
+    "examples": [
+      "I spend half my day in the helpdesk and never get to coding.",
+      "Support tickets pile up whenever I try to focus on new features."
+    ],
+    "frequency_score": 4,
+    "intensity_score": 3,
+    "link": "https://reddit.com"
+  }
+]
